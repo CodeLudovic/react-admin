@@ -1,7 +1,7 @@
 import React from 'react'
 
-export const pieChart = () => {
+export const PieChart = () => {
   return (
-    <div>pieChart</div>
+    <div>Pie</div>
   )
 }
